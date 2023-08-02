@@ -29,5 +29,5 @@ def isPalindrome3(num : int):
     # backward code
     return int(str(m) + str(r))
 
-print(isPalindrome3(1233435))
+print(isPalindrome3(1233435)==1233435)
 
